@@ -31,7 +31,7 @@ A collaborative web application developed during my training.
 
 
 ### 🔗 Repository
-[Weedo on GitHub](https://github.com/ChickenCodeSchool/Js-Team-vert-WildWlaker-P3-G3)
+[Weedo on GitHub](https://github.com/SoleneMend/Wedoo)
 
 
 ### 👥 Team
